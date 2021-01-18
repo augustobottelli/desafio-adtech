@@ -1,0 +1,2 @@
+class GEEException(Exception):
+    pass
